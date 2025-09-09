@@ -1,0 +1,5 @@
+﻿train_id,type,dir,origin,req_time,dest
+T1,P,up,HALKALI,0,YENİMAHALLE
+T2,G,up,HALKALI,60,YENİMAHALLE
+T3,P,down,YENİMAHALLE,120,HALKALI
+T4,F,up,HALKALI,55,YENİMAHALLE
